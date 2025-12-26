@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋 
 
-<!--
-**lisery454/lisery454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Familiar
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=cs,rust,docker,git,nodejs,vue,ts,unity,cpp,yarn,html,css)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Understand
+
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,arch,arduino,bun,c,cmake,dart,electron,flutter,gradle,godot,ai,java,kotlin,latex,mysql,ps,react,vite)](https://skillicons.dev)
+
+### Want To Learn 
+
+[![My Skills](https://skillicons.dev/icons?i=bevy,blender,zig)](https://skillicons.dev)
+
+csp, typst, WPF, avalonia, spring
