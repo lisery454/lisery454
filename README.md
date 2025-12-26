@@ -1,15 +1,18 @@
-## Hi there 👋 
+I write some garbage code every day, but I actually enjoy it.
 
-### Familiar
+Full-stack. Lately I've been particularly interested in Rust. I also do web front-end development, C# development, game development, and illustration.
 
-[![My Skills](https://skillicons.dev/icons?i=cs,rust,docker,git,nodejs,vue,ts,unity,cpp,yarn,html,css)](https://skillicons.dev)
+## Familiar
 
-### Understand
-
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,anaconda,arch,arduino,bun,c,cmake,dart,electron,flutter,gradle,godot,ai,java,kotlin,latex,mysql,ps,react,vite)](https://skillicons.dev)
-
-### Want To Learn 
-
-[![My Skills](https://skillicons.dev/icons?i=bevy,blender,zig)](https://skillicons.dev)
-
-csp, typst, WPF, avalonia, spring
+<p align="left">
+<img src="./assets/CS.svg" width="50" height="50">
+<img src="./assets/DotNet.svg" width="50" height="50">
+<img src="./assets/Rust.svg" width="50" height="50">
+<img src="./assets/NodeJS-Light.svg" width="50" height="50">
+<img src="./assets/VueJS-Light.svg" width="50" height="50">
+<img src="./assets/TypeScript.svg" width="50" height="50">
+<img src="./assets/Unity-Light.svg" width="50" height="50">
+<img src="./assets/CPP.svg" width="50" height="50">
+<img src="./assets/Docker.svg" width="50" height="50">
+<img src="./assets/CSP.svg" width="50" height="50">
+</p>
